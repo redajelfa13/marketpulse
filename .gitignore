@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.json.key
+data/
+.pytest_cache/
+.ruff_cache/
+target/
+dbt_packages/
+logs/
